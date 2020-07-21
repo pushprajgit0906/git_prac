@@ -1,0 +1,5 @@
+This is first release document
+git init
+git remote add origin < URL>
+git status
+git pull origin master
